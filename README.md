@@ -4,9 +4,9 @@
 ## 目錄
 
 ## Sequence Processing
-* FastQC
-* seqkit
-* seqtk
+* [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc)
+* [seqkit](https://bioinf.shenwei.me/seqkit/)
+* [seqtk](https://github.com/lh3/seqtk)
 * nanoq
 * fastp
 * porechop
@@ -26,7 +26,26 @@
 * SKESA
 * Flye
 * raven
-
 ### Pipeline
 * Unicycler
 * shovill
+### Improvement
+* pilon
+* racon
+* medaka
+* homopolish
+
+## Classification
+* kraken2
+* centrifuge
+* Bracken
+
+## Variant calling
+* freebayes
+* parsnp
+
+### Pipeline
+* snippy
+
+## Sequence Typing
+* MLST
