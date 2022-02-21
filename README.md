@@ -50,3 +50,4 @@
 
 ## Sequence Typing
 * MLST
+* [SISTR](https://github.com/phac-nml/sistr_cmd)
