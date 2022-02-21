@@ -1,2 +1,2 @@
 # Bioinformatics
-A list of Bioinformatics libraries and software in use.
+目前使用的Bioinformatics工具清單
