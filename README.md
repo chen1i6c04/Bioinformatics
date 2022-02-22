@@ -9,7 +9,8 @@
 * [seqtk](https://github.com/lh3/seqtk)
 * [nanoq](https://github.com/esteinig/nanoq)
 * [fastp](https://github.com/OpenGene/fastp)
-* porechop
+* Porechop
+* Filtlong
 
 ## Sequence Alignment
 * bwa
@@ -37,9 +38,9 @@
 * [Trycycler](https://github.com/rrwick/Trycycler)
 
 ## Classification
-* kraken2
-* centrifuge
-* Bracken
+* [Kraken2](https://ccb.jhu.edu/software/kraken2/)
+* [Centrifuge](https://ccb.jhu.edu/software/centrifuge/)
+* [Bracken](https://ccb.jhu.edu/software/bracken/)
 
 ## Variant calling
 * [freebayes](https://github.com/freebayes/freebayes)
@@ -49,5 +50,5 @@
 * snippy
 
 ## Sequence Typing
-* MLST
+* [MLST](https://github.com/tseemann/mlst)
 * [SISTR](https://github.com/phac-nml/sistr_cmd)
