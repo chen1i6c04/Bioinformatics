@@ -13,28 +13,29 @@
 * Filtlong
 
 ## Sequence Alignment
-* bwa
-* bowtie2 
-* bwa-mem2
-* minimap2
+* [bwa](https://github.com/lh3/bwa)
+* [bowtie2](https://github.com/BenLangmead/bowtie2)
+* [bwa-mem2](https://github.com/bwa-mem2/bwa-mem2)
+* [minimap2](https://github.com/lh3/minimap2)
 * blast+
-* dimoand
+* [diamond](https://github.com/bbuchfink/diamond)
 * MUSCLE
 * MUMmer
 
 ## Assembly
 * [SPAdes](https://cab.spbu.ru/software/spades/)
-* SKESA
+* [SKESA](https://github.com/ncbi/SKESA)
 * [Flye](https://github.com/fenderglass/Flye)
 * raven
 ### Pipeline
 * [Unicycler](https://github.com/rrwick/Unicycler)
 * [shovill](https://github.com/tseemann/shovill)
 ### Improvement
-* pilon
-* racon
-* medaka
-* [homopolish](https://github.com/ythuang0522/homopolish)
+* [Pilon](https://github.com/broadinstitute/pilon)
+* [NextPolish](https://github.com/Nextomics/NextPolish)
+* [racon](https://github.com/lbcb-sci/racon)
+* [medaka](https://github.com/nanoporetech/medaka)
+* [Homopolish](https://github.com/ythuang0522/homopolish)
 * [Trycycler](https://github.com/rrwick/Trycycler)
 
 ## Classification
@@ -47,7 +48,7 @@
 * [parsnp](https://github.com/marbl/parsnp)
 
 ### Pipeline
-* snippy
+* [snippy](https://github.com/tseemann/snippy)
 
 ## Sequence Typing
 * [MLST](https://github.com/tseemann/mlst)
