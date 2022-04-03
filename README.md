@@ -9,7 +9,7 @@
 - [Classification](#Classification)
 - [Variant calling](#variant-calling)
   - [Pipeline](#Pipeline)
-- [Sequence Typing](#sequenc-typing)
+- [Sequence Typing](#sequence-typing)
 
 ## Sequence Processing
 * [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc)
