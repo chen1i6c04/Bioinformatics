@@ -30,6 +30,7 @@
 ### Pipeline
 * [Unicycler](https://github.com/rrwick/Unicycler)
 * [shovill](https://github.com/tseemann/shovill)
+* [dragonflye](https://github.com/rpetit3/dragonflye)
 ### Improvement
 * [Pilon](https://github.com/broadinstitute/pilon)
 * [NextPolish](https://github.com/Nextomics/NextPolish)
