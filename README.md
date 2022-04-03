@@ -9,7 +9,8 @@
 - [Classification](#Classification)
 - [Variant calling](#variant-calling)
   - [Pipeline](#Pipeline)
-- [Sequence Typing](#sequence-typing)
+- [Genotype](#genotype)
+- [Annotation](#annotation)
 
 ## Sequence Processing
 * [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc)
@@ -61,6 +62,11 @@
 ### Pipeline
 * [snippy](https://github.com/tseemann/snippy)
 
-## Sequence Typing
+## Genotype
 * [MLST](https://github.com/tseemann/mlst)
 * [SISTR](https://github.com/phac-nml/sistr_cmd)
+
+## Annotation
+* [prokka](https://github.com/tseemann/prokka)
+* [bakta](https://github.com/oschwengers/bakta)
+* [pgap](https://github.com/ncbi/pgap)
