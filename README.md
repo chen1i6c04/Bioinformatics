@@ -8,7 +8,6 @@
   - [Polish](#Polish)
 - [Classification](#Classification)
 - [Variant calling](#variant-calling)
-  - [Pipeline](#Pipeline)
 - [Genotype](#genotype)
 - [Annotation](#annotation)
 
@@ -58,13 +57,17 @@
 ## Variant calling
 * [freebayes](https://github.com/freebayes/freebayes)
 * [parsnp](https://github.com/marbl/parsnp)
-
-### Pipeline
 * [snippy](https://github.com/tseemann/snippy)
 
 ## Genotype
 * [MLST](https://github.com/tseemann/mlst)
 * [SISTR](https://github.com/phac-nml/sistr_cmd)
+* [genotyphi](https://github.com/katholt/genotyphi)
+* [AMRfinderPlus](https://github.com/ncbi/amr)
+* [meningotype](https://github.com/MDU-PHL/meningotype)
+* [LisSero](https://github.com/MDU-PHL/LisSero)
+* [TBProfiler](https://github.com/jodyphelan/TBProfiler)
+* [Kleborate](https://github.com/katholt/Kleborate)
 
 ## Annotation
 * [prokka](https://github.com/tseemann/prokka)
