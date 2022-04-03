@@ -10,7 +10,8 @@
 * [nanoq](https://github.com/esteinig/nanoq)
 * [fastp](https://github.com/OpenGene/fastp)
 * Porechop
-* Filtlong
+* [Filtlong](https://github.com/rrwick/Filtlong)
+* [rasusa](https://github.com/mbhall88/rasusa)
 
 ## Sequence Alignment
 * [bwa](https://github.com/lh3/bwa)
@@ -39,6 +40,7 @@
 * [Homopolish](https://github.com/ythuang0522/homopolish)
 * [Trycycler](https://github.com/rrwick/Trycycler)
 * [POLCA](https://github.com/alekseyzimin/masurca#polca)
+* [Polypolish](https://github.com/rrwick/Polypolish)
 
 ## Classification
 * [Kraken2](https://ccb.jhu.edu/software/kraken2/)
