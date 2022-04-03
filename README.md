@@ -7,7 +7,7 @@
 - [Assembly](#Assembly)
   - [Polish](#Polish)
 - [Classification](#Classification)
-- [Variant calling](#variant-calling)
+- [Variation](#variation)
 - [Genotype](#genotype)
 - [Annotation](#annotation)
 
@@ -54,7 +54,7 @@
 * [Centrifuge](https://ccb.jhu.edu/software/centrifuge/)
 * [Bracken](https://ccb.jhu.edu/software/bracken/)
 
-## Variant calling
+## Variation
 * [freebayes](https://github.com/freebayes/freebayes)
 * [parsnp](https://github.com/marbl/parsnp)
 * [snippy](https://github.com/tseemann/snippy)
