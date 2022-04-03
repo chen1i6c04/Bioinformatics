@@ -2,15 +2,15 @@
 目前使用的Bioinformatics工具清單
 
 ## 目錄
-- [Sequence Processing](#Sequence-Processing)
-- [Sequence Alignment](#Sequence-Alignment)
+- [Sequence Processing](#sequence-processing)
+- [Sequence Alignment](#sequence-slignment)
 - [Assembly](#Assembly)
   - [Pipeline](#Pipeline)
   - [Improvement](#Improvement)
 - [Classification](#Classification)
-- [Variant calling](#Variant-calling)
+- [Variant calling](#variant-calling)
   - [Pipeline](#Pipeline)
-- [Sequence Typing](#Sequenc-Typing)
+- [Sequence Typing](#sequenc-typing)
 
 ## Sequence Processing
 * [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc)
