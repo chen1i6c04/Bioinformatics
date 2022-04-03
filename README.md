@@ -10,6 +10,7 @@
 - [Variation](#variation)
 - [Genotype](#genotype)
 - [Annotation](#annotation)
+- [Web server](#web-server)
 
 ## Sequence Processing
 * [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc)
@@ -73,3 +74,10 @@
 * [prokka](https://github.com/tseemann/prokka)
 * [bakta](https://github.com/oschwengers/bakta)
 * [pgap](https://github.com/ncbi/pgap)
+
+## Web server
+- [iTOL](https://itol.embl.de/)
+- [PubMLST](https://pubmlst.org/)
+- [Pathogen Detection](https://www.ncbi.nlm.nih.gov/pathogens/)
+- [EnteroBase](https://enterobase.warwick.ac.uk/)
+- [BIGSdb-Pasteur](https://bigsdb.pasteur.fr/)
