@@ -33,13 +33,18 @@
 * MUMmer
 
 ## Assembly
-* [SPAdes](https://cab.spbu.ru/software/spades/)
-* [SKESA](https://github.com/ncbi/SKESA)
+### Long reads
 * [Flye](https://github.com/fenderglass/Flye)
 * raven
-* [Unicycler](https://github.com/rrwick/Unicycler)
-* [shovill](https://github.com/tseemann/shovill)
 * [dragonflye](https://github.com/rpetit3/dragonflye)
+### Short reads
+* [SPAdes](https://cab.spbu.ru/software/spades/)
+* [SKESA](https://github.com/ncbi/SKESA)
+* [shovill](https://github.com/tseemann/shovill)
+
+### Hybrid
+* [Unicycler](https://github.com/rrwick/Unicycler)
+
 ### Polish
 * [Pilon](https://github.com/broadinstitute/pilon)
 * [NextPolish](https://github.com/Nextomics/NextPolish)
