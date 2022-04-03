@@ -5,8 +5,7 @@
 - [Sequence Processing](#sequence-processing)
 - [Sequence Alignment](#sequence-slignment)
 - [Assembly](#Assembly)
-  - [Pipeline](#Pipeline)
-  - [Improvement](#Improvement)
+  - [Polish](#Polish)
 - [Classification](#Classification)
 - [Variant calling](#variant-calling)
   - [Pipeline](#Pipeline)
@@ -37,11 +36,10 @@
 * [SKESA](https://github.com/ncbi/SKESA)
 * [Flye](https://github.com/fenderglass/Flye)
 * raven
-### Pipeline
 * [Unicycler](https://github.com/rrwick/Unicycler)
 * [shovill](https://github.com/tseemann/shovill)
 * [dragonflye](https://github.com/rpetit3/dragonflye)
-### Improvement
+### Polish
 * [Pilon](https://github.com/broadinstitute/pilon)
 * [NextPolish](https://github.com/Nextomics/NextPolish)
 * [racon](https://github.com/lbcb-sci/racon)
