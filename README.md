@@ -37,6 +37,7 @@
 * [medaka](https://github.com/nanoporetech/medaka)
 * [Homopolish](https://github.com/ythuang0522/homopolish)
 * [Trycycler](https://github.com/rrwick/Trycycler)
+* [POLCA](https://github.com/alekseyzimin/masurca#polca)
 
 ## Classification
 * [Kraken2](https://ccb.jhu.edu/software/kraken2/)
