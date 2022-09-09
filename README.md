@@ -21,6 +21,7 @@
 * Porechop
 * [Filtlong](https://github.com/rrwick/Filtlong)
 * [rasusa](https://github.com/mbhall88/rasusa)
+* [MultiQC](https://github.com/ewels/MultiQC)
 
 ## Sequence Alignment
 * [bwa](https://github.com/lh3/bwa)
@@ -59,6 +60,7 @@
 * [Kraken2](https://ccb.jhu.edu/software/kraken2/)
 * [Centrifuge](https://ccb.jhu.edu/software/centrifuge/)
 * [Bracken](https://ccb.jhu.edu/software/bracken/)
+* [MetaPhlAn](https://github.com/biobakery/MetaPhlAn)
 
 ## Variation
 * [freebayes](https://github.com/freebayes/freebayes)
