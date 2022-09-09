@@ -86,3 +86,9 @@
 - [Pathogen Detection](https://www.ncbi.nlm.nih.gov/pathogens/)
 - [EnteroBase](https://enterobase.warwick.ac.uk/)
 - [BIGSdb-Pasteur](https://bigsdb.pasteur.fr/)
+
+## Other
+- pigz
+- awk
+- cat
+- zcat
